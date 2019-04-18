@@ -18,5 +18,5 @@ Bits for building a Python3 based Docker Image with Flask baked in
     ```
     $ docker login
     $ docker tag python3-flask:0.1 jmsearcy/python3-flask:0.1
-    $ docker push jmsearcy/imageswap-webhook:0.1
+    $ docker push jmsearcy/python3-flask:0.1
     ```
